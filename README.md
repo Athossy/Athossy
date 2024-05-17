@@ -6,8 +6,8 @@
 - 😄 Pronouns: Code for Networks, Navigation, Photography
 - ⚡ Fun fact: One of the two sibblings
   in their mother's whomb is asking the other one:
-  "Is there life after birth?", the other replies:
-  ”Who knows as nobody came back to tell us."
+  "Is there life after birth?", the other one replies:
+  ”Who knows, as nobody came back to tell us."
 
 <!---
 Athossy/Athossy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
